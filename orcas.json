@@ -1,0 +1,19 @@
+{
+  "name": "Orca",
+  "lifespan": {
+    "in the wild": "50 to 80 years",
+    "in captivity": "12 to 16 years"
+  },
+  "appearance": {
+    "size": {
+      "metres": "5 to 8",
+      "feet": "16 to 26"
+    },
+    "weight": "3 to 6 tonnes",
+    "color": "black and white"
+  },
+  "habitat": "ocean",
+  "endangered": "data deficient",
+  "diet": ["fish", "cephalopods", "mammals", "seabirds", "sea turtles"],
+  "natural predators": "none"
+}
